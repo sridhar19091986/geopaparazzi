@@ -1,0 +1,17 @@
+#summary description of the map menu.
+#labels User-Guide
+
+The map menu gives the possibility to access some additional map tools:
+
+ * [GpsDataList3 access the gps data list]
+ * toggle the scalebar
+ * open the compass
+ * center the view on the current map
+ * [GoTo3 go to a location]
+
+<p align="center"><img src="http://wiki.geopaparazzi.googlecode.com/git/images3/23_map_menu.png"/></p>
+
+ * send data
+ * view the data visible in the viewport in [http://www.mixare.org/ Mixare]
+
+<p align="center"><img src="http://wiki.geopaparazzi.googlecode.com/git/images3/23b_map_menu.png"/></p>

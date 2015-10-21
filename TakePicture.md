@@ -1,0 +1,1 @@
+Taking a georeferenced and oriented picture is as easy as tapping on the right icon from the main menu. The preview button opens up and you can take a picture as you always do with your phone.

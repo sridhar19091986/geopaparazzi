@@ -1,0 +1,1 @@
+From the osm menu it is possible to remove the last inserted note.

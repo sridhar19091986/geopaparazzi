@@ -1,0 +1,2 @@
+The map data list is basically the same as the gps data list, only the origin of the data is different, therefore refer to [this page](GpsDataList.md) for information.
+Map data are those [imported from gpx](ImportGpx.md), while gps data are those collected through the application.
